@@ -15,7 +15,7 @@ A **Windows Forms-based desktop application** developed using C# for managing st
 ## **Technologies Used**
 - **Programming Language**: C#
 - **Framework**: .NET Windows Forms
-- **Database**: *(Specify your database, e.g., SQL Server, SQLite)*
+- **Database**: MSSQL
 
 ---
 
